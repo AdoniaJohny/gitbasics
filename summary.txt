@@ -1,0 +1,83 @@
+                                                   24/11/25
+
+FASTAPI:
+
+import lib and tools
+create class
+use get or post, get for showing post for taking (app.get(),app.post())
+
+
+STREAMLIT:
+
+import lib and tools
+use different features to make page functionable(st.something)
+basic python for logic creation
+
+
+                                                   25/11/25
+
+remove rows with no start time and end time values
+remove doesnt have heightened area values
+sorted the data into difference and difference percentage
+saved everything in csv as well as in dicitonaries
+
+                                                  26/11/25
+
+completed the streamlit+fastapi project
+learned the structure from it for fastapi. 
+understood the structure of streamlit also
+
+
+                                                  27/11/25
+
+median absolute deviation
+asymmetric least squares
+first and second order derivatives
+local prominence
+snr local
+area a and fwhm area
+emg
+goodness of fit score
+cwt 
+top hat transform'
+---------------------------------------------------------------------------------
+most important :
+
+1.Median absolute deviation: 
+median of whole signal 
+each sample - median and take absolute value
+the typical distance points lie from the center, ignoring outliers (peaks)
+1.4826MAD
+
+2.Asymmetric Least Squares baseline
+
+---------------------------------------------------------------------------------
+
+chromilion
+output: isocratic or gradient
+peak shape - tilted left or right or others
+
+features:
+isocratic/gradient:
+baseline slope relative to peak height
+peak shape:
+Left half-width ≈ Right half-width
+Right half-width > Left half-width
+Left half-width > Right half-width or skewness
+
+
+                                             28/11/2025
+
+New Peak Metrics
+Metric	Purpose
+USP Tailing Factor	Real indicator of tailing.
+USP Plate Count (N)	Peak efficiency (column performance).
+USP Resolution (Rs)	Overlap detection.
+W0.05 & W0.1	Peak width at 5% and 10% height.
+Second derivative curvature	Shoulder detection.
+
+
+                                            08/12/2025
+
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICXqL73N0xp+zro5sG+WMwQClanX8DID0MumtquhCSNU Adonia.johny@proventech.in
+
